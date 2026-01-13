@@ -1,0 +1,41 @@
+.body{
+    font-family: cursive;
+    background-color: #fff7ed;
+}
+.header{
+    text-align: center;
+}
+.h1{
+    color: #78350f;
+    background-color: #fde68a;
+}
+.title{
+    background-color: #fed7aa;
+}
+.title1{
+    text-decoration: none;
+    color: #78350f;
+}
+.title1:hover{
+    background-color: #c2410c;
+    color:white;
+}
+.main{
+    text-align: center;
+}
+.paragraph{
+    text-align: left;
+    background-color: white;
+}
+.h2{
+    color: #78350f;
+}
+.li:hover{
+    background-color: #78350f;
+    color: yellow;
+}
+.footer{
+    background-color: #78350f;
+    color: white;
+    text-align: center;
+}
